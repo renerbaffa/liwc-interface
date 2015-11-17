@@ -1,0 +1,174 @@
+%
+1	funct
+2	pronoun
+3	ppron
+4	i
+5	we
+6	you
+7	shehe
+8	they
+9	ipron
+10	article
+11	verb
+12	auxverb
+13	past
+14	present
+15	future
+16	adverb
+17	preps
+18	conj
+19	negate
+20	quant
+21	number
+22	swear
+121	social
+122	family
+123	friend
+124	humans
+125	affect
+126	posemo
+127	negemo
+128	anx
+129	anger
+130	sad
+131	cogmech
+132	insight
+133	cause
+134	discrep
+135	tentat
+136	certain
+137	inhib
+138	incl
+139	excl
+140	percept
+141	see
+142	hear
+143	feel
+146	bio
+147	body
+148	health
+149	sexual
+150	ingest
+250	relativ
+251	motion
+252	space
+253	time
+354	work
+355	achieve
+356	leisure
+357	home
+358	money
+359	relig
+360	death
+462	assent
+463	nonfl
+464	filler
+%
+a	1	2	3	6	7	9	10	17	121	131	138	252	463
+aba	146
+abafa	125	127	129
+abafad*	125	127	129
+abafada	125	127	129
+abafadas	125	127	129
+abafado	125	127	129
+abafados	125	127	129
+abafai	125	127	129
+abafais	125	127	129
+abafam	125	127	129
+abafamos	125	127	129
+abafando	125	127	129	131	137
+abafar	125	127	129
+abafara	125	127	129
+abafaram	125	127	129
+abafaras	125	127	129
+abafardes	125	127	129
+abafarei	125	127	129
+abafareis	125	127	129
+abafarem	125	127	129
+abafaremos	125	127	129
+abafares	125	127	129
+abafaria	125	127	129
+abafariam	125	127	129
+abafarias	125	127	129
+abafarmos	125	127	129
+abafará	125	127	129
+abafarás	125	127	129
+abafarão	125	127	129
+abafaríamos	125	127	129
+abafaríeis	125	127	129
+abafas	125	127	129
+abafasse	125	127	129
+abafassem	125	127	129
+abafasses	125	127	129
+abafaste	125	127	129
+abafastes	125	127	129
+abafava	125	127	129
+abafavam	125	127	129
+abafavas	125	127	129
+abafe	125	127	129
+abafei	125	127	129
+abafeis	125	127	129
+abafem	125	127	129
+abafemos	125	127	129
+abafes	125	127	129
+abafo	125	127	129
+abafou	125	127	129
+abafáramos	125	127	129
+abafáreis	125	127	129
+abafásseis	125	127	129
+abafássemos	125	127	129
+abafávamos	125	127	129
+abafáveis	125	127	129
+abaixa	1	125	127	130
+abaixad*	125	127	130	250	252
+abaixada	1	125	127	130
+abaixada*	1
+abaixadas	1	125	127	130
+abaixado	1	125	127	130
+abaixados	1	125	127	130
+abaixai	1	125	127	130
+abaixais	1	125	127	130
+abaixam	1	125	127	130
+abaixamos	1	125	127	130
+abaixando	1	125	127	130
+abaixar	1	125	127	130
+abaixara	1	125	127	130
+abaixaram	1	125	127	130
+abaixaras	1	125	127	130
+abaixardes	1	125	127	130
+abaixarei	1	125	127	130
+abaixareis	1	125	127	130
+abaixarem	1	125	127	130
+abaixaremos	1	125	127	130
+abaixares	1	125	127	130
+abaixaria	1	125	127	130
+abaixariam	1	125	127	130
+abaixarias	1	125	127	130
+abaixarmos	1	125	127	130
+abaixará	1	125	127	130
+abaixarás	1	125	127	130
+abaixarão	1	125	127	130
+abaixaríamos	1	125	127	130
+abaixaríeis	1	125	127	130
+abaixas	1	125	127	130
+abaixasse	1	125	127	130
+abaixassem	1	125	127	130
+abaixasses	1	125	127	130
+abaixaste	1	125	127	130
+abaixastes	1	125	127	130
+abaixava	1	125	127	130
+abaixavam	1	125	127	130
+abaixavas	1	125	127	130
+abaixe	1	125	127	130
+abaixei	1	125	127	130
+abaixeis	1	125	127	130
+abaixem	1	125	127	130
+abaixemos	1	125	127	130
+abaixes	1	125	127	130
+abaixo	1	17	125	127	130	150	250	252
+abaixou	1	125	127	130
+abaixáramos	1	125	127	130
+abaixáreis	1	125	127	130
+abaixásseis	1	125	127	130
+abaixássemos	1	125	127	130
+abaixávamos	1	125	127	130

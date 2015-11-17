@@ -7,6 +7,11 @@
 var app = require('../app');
 var debug = require('debug')('liwc-interface:server');
 var http = require('http');
+var sequelize = new Sequelize('localhost', 'root', 'root');
+
+/*
+* Sequelize example: https://github.com/sequelize/express-example/tree/master/models
+* */
 
 /**
  * Get port from environment and store in Express.

@@ -1,7 +1,32 @@
 doctype html
 html
   head
+    meta(charset='utf-8')
+    meta(http-equiv="X-UA-Compatible" content="IE=edge")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no")
+    link(rel="shortcut icon" href='/images/favicon.png')
+    link(rel='stylesheet', href='http://fonts.googleapis.com/icon?family=Material+Icons')
+    link(type='text/css' rel='stylesheet', href='/stylesheets/materialize.css' media='screen, projection')
+    link(type='text/css' rel='stylesheet', href='/stylesheets/my-style.css')
+    link(type='text/css' rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js')
+    script(src='/javascripts/materialize.js')
+
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
   body
+    header
+      .navbar-fixed
+        nav.dark-brown
+          .container.menu
+            .nav-wrapper
+              ul.left.hide-on-med-and-down
+                li.logo
+                  a(href="/")
+                    img(src="/images/logo-remar-branco-transparente.png")
+              ul.right.hide-on-large-only
+                li.logo
+                  a(href="/")
+                    img.logo-min(src="/images/favicon.png")
+              ul#top-nav-menu.right.hide-on-med-and-down
+
     block content
